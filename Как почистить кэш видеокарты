@@ -1,0 +1,4 @@
+Способ полезен для обладателей видеокарт NVidia.
+
+Удалите все файлы в папке по пути:
+SYSTEM DISK: \ Users \ Имя пользователя \ AppData \ LocalLow \ NVIDIA \ PerDriverVersion \ DXCache \
