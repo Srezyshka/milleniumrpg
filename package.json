@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "discord.js": "^14.12.1"
+  },
+  "name": "node_milleniumrpg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srezyshka/milleniumrpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srezyshka/milleniumrpg/issues"
+  },
+  "homepage": "https://github.com/Srezyshka/milleniumrpg#readme",
+  "description": ""
+}
